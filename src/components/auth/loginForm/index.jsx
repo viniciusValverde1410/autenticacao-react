@@ -1,4 +1,4 @@
-"use client";
+"use client"; // interação com usuário eu uso isso e pq uso state
 // components/auth/LoginForm.jsx
 
 import { useState } from "react";
